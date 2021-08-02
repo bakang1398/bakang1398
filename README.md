@@ -3,12 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... GirlCode
-- 🌱 I’m currently learning ... Web Development
-- 👯 I’m looking to collaborate on ... HTML and CSS
-- 🤔 I’m looking for help with ... HTML and CSS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... BakangSebetlela@gmail.com
-- 😄 Pronouns: ... Her/Hers
-- ⚡ Fun fact: ... I enjoy making jokes
+- 🔭 I’m currently a student GirlCode on a software development learnership programme.
+- 🌱 I’m currently learning Software Development.
+- 🤔 I’m looking for help with  HTML, CSS and JavaScript.
+- 💬 Ask me about Anything.
+- 📫 How to reach me: BakangSebetlela@gmail.com
+- 😄 Pronouns: Her/Hers
 -->
