@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a student GirlCode on a software development learnership programme.
 - 🌱 I’m currently learning Software Development.
 - 🤔 I’m looking for help with  HTML, CSS and JavaScript.
