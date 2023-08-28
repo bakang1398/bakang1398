@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a student GirlCode on a software development learnership programme.
-- 🌱 I’m currently learning Software Development.
-- 🤔 I’m looking for help with  HTML, CSS and JavaScript.
+- 🔭 I’m currently a Junior Software Developer at TopCode.
+- 🌱 I’m currently learning Software Development and doing Mobile Applications.
 - 💬 Ask me about Anything.
 - 😄 Pronouns: Her/Hers
 -->
